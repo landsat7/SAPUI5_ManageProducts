@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.manageproducts.ES5_sample.ManageProducts",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#ES5_sampleManageProducts-Display",
+        "navigationComponentName": "opensap.manageproducts",
+        "intentSemanticObject": "ES5_sample.ManageProducts",
+        "intentAction": "Display",
+        "html5ApplicationName": "es5samplemanageproducts",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "00000000-0000-1111-0000-00000000"
+        ],
+        "contentPackages": [
+            "00000000-0000-2222-0000-00000000"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "ES5_sample.Manage.Products",
+        "subtitle": "Subtitle",
+        "searchKeywords": "ES5_sample.Manage.Products,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
